@@ -34,12 +34,12 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ### 🛠️ Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,vercel,render,Shadcn,netlify,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" height="40" alt="Tools Stack"/>
 </div>
 
 ### 🎨 Design & UI/UX
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,threejs,webflow" height="40" alt="Design Stack"/>
+  <img src="https://skillicons.dev/icons?i=figma,threejs" height="40" alt="Design Stack"/>
 </div>
 
 ### 🧠 Programming Languages
