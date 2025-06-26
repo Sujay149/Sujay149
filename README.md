@@ -8,7 +8,6 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ## 🚀 Know About Me!!
 
 - 💻 Full-stack developer with a love for technology and creativity 💡  
-- 🤖 AI/ML & Tech enthusiast  
 - 🌍 Passionate about real-world projects blending design, development & AI  
 - 🌱 Lifelong learner, adapting to new challenges in tech  
 - 🤝 Love collaborating and sharing knowledge to create positive impact
@@ -25,7 +24,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ### 🌐 Web & App Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,express,nextjs,vue,ts,tailwind,flask" height="40" alt="Web & App Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind," height="40" alt="Web & App Technologies"/>
 </div>
 
 ### 🗃️ Database Technologies
@@ -35,7 +34,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ### 🛠️ Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,vercel,render,Shadcn,netlify,vscode" height="40" alt="Tools Stack"/>
 </div>
 
 ### 🎨 Design & UI/UX
@@ -45,7 +44,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ### 🧠 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,js" height="40" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,py,java,js,c++" height="40" alt="Languages"/>
 </div>
 
 ---
