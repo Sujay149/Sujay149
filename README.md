@@ -1,16 +1,75 @@
-## Hi there 👋
-# 👋 Heyy!! I'm Sujay Thota A Passionate Full-Stack Web Developer & Designer, always exploring new technologies to build innovative, robust and scalable web & mobile applications. Currently Pursuing My B.Tech at SRKR Engineering College, in the stream of Computer Science & Design. ## 🚀Know About Me!! - 💻 A Full-stack developer with a love for technology and creativity.💡 - 🤖 AI/ML enthusiast & Tech enthusiast. - 🌍 Love working on real-world projects that blend design, development, and AI to create impactful solutions. - 🌱 Always learning and adapting to new challenges in the tech world. - 🤝 I enjoy collaborating with others and sharing knowledge to create a positive impact in the tech community.<br/> ## 🎯 Currently focused on <br/> 👨‍💻Web & App Development |  🔥Exploring the latest tech trends<br/> ## 💻 Tech Stack ### Web & App Technologies <div align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,expressjs,nextjs,vue,ts,tailwind,flask" height="40" alt="frontend stack"/> </div> ### Database Technologies <div align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="database stack"/> </div> ### Tools & Technologies <div align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode," height="40" alt="tools stack"/> </div> ### Design <div align="left"> <img src="https://skillicons.dev/icons?i=figma,threejs,webflow" height="40" alt="backend stack"/> </div> ### Programming Languages <div align="left"> <img src="https://skillicons.dev/icons?i=c,py,java,js" height="40" alt="frontend stack"/> </div> ## 📊 GitHub Stats <div align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=siddardha003&theme=tokyonight&hide_border=true)<br/> </div> ## 🏆 GitHub Trophies ![Trophies](https://github-profile-trophy.vercel.app/?username=siddardha003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4) <div align="center"> <img src="https://komarev.com/ghpvc/?username=siddardha003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </div> --- 💬 Feel free to reach out for collaborations or just a tech chat!
-<!--
-**Sujay149/Sujay149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Heyy!! I'm Sujay Thota
 
-Here are some ideas to get you started:
+A passionate **Full-Stack Web Developer & Designer**, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.  
+🎓 Currently pursuing my **B.Tech at SRKR Engineering College**, specializing in **Computer Science & Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Know About Me!!
+
+- 💻 Full-stack developer with a love for technology and creativity 💡  
+- 🤖 AI/ML & Tech enthusiast  
+- 🌍 Passionate about real-world projects blending design, development & AI  
+- 🌱 Lifelong learner, adapting to new challenges in tech  
+- 🤝 Love collaborating and sharing knowledge to create positive impact
+
+---
+
+## 🎯 Currently Focused On:
+- 👨‍💻 Web & App Development  
+- 🔥 Exploring the latest tech trends  
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Web & App Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,express,nextjs,vue,ts,tailwind,flask" height="40" alt="Web & App Technologies"/>
+</div>
+
+### 🗃️ Database Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="Database Stack"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" height="40" alt="Tools Stack"/>
+</div>
+
+### 🎨 Design & UI/UX
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,threejs,webflow" height="40" alt="Design Stack"/>
+</div>
+
+### 🧠 Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,java,js" height="40" alt="Languages"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddardha003&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddardha003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddardha003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+---
+
+### 💬 Feel free to reach out for collaborations or just a tech chat!
