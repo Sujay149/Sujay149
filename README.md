@@ -24,14 +24,14 @@ https://www.medibot-ai.com/
 
 
 
-signup-1499.web.app
+https://signup-1499.web.app/
 
 
 
 https://wonderkids.great-site.net/?i=1
 
 
-crave-finder.vercel.app
+https://crave-finder.vercel.app/
 
 
 
