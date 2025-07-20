@@ -36,19 +36,19 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ## 💻 Tech Stack
 
-### 🌐 Web & App Technologies
+### 🌐 Web & App Technologies  
 ![Web](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind)
 
-### 🗃️ Database Technologies
+### 🗃️ Database Technologies  
 ![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode)
 
-### 🎨 Design & UI/UX
+### 🎨 Design & UI/UX  
 ![Design](https://skillicons.dev/icons?i=figma,threejs)
 
-### 🧠 Programming Languages
+### 🧠 Programming Languages  
 ![Langs](https://skillicons.dev/icons?i=c,py,java,js,cpp)
 
 ---
