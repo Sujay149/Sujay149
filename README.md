@@ -22,7 +22,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ## 🧩 Projects
 
 - 🔬 [Medibot AI](https://www.medibot-ai.com/)  
-- 🔐 [Signup App](https://signup-1499.web.app/)  
+- 🔐 [Nuerohub](https://signup-1499.web.app/)  
 - 🧒 [WonderKids Game](https://wonderkids.great-site.net/?i=1)  
 - 🍟 [Crave Finder](https://crave-finder.vercel.app/)
 
