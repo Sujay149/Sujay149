@@ -12,31 +12,19 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 - 🌱 Lifelong learner, adapting to new challenges in tech  
 - 🤝 Love collaborating and sharing knowledge to create positive impact
 
+---
 
-## 🚀 Portfolio..!!
-[sujaybabu.vercel.app](https://sujaybabu.vercel.app/)
+## 🌐 Portfolio  
+🔗 [sujaybabu.vercel.app](https://sujaybabu.vercel.app)
 
-___
+---
 
-## Projects :  !! 
+## 🧩 Projects
 
-https://www.medibot-ai.com/
-
-
-
-https://signup-1499.web.app/
-
-
-
-https://wonderkids.great-site.net/?i=1
-
-
-https://crave-finder.vercel.app/
-
-
-
-
-
+- 🔬 [Medibot AI](https://www.medibot-ai.com/)  
+- 🔐 [Signup App](https://signup-1499.web.app/)  
+- 🧒 [WonderKids Game](https://wonderkids.great-site.net/?i=1)  
+- 🍟 [Crave Finder](https://crave-finder.vercel.app/)
 
 ---
 
@@ -49,36 +37,27 @@ https://crave-finder.vercel.app/
 ## 💻 Tech Stack
 
 ### 🌐 Web & App Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind," height="40" alt="Web & App Technologies"/>
-</div>
+![Web](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind)
 
 ### 🗃️ Database Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="Database Stack"/>
-</div>
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres)
 
 ### 🛠️ Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" height="40" alt="Tools Stack"/>
-</div>
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode)
 
 ### 🎨 Design & UI/UX
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,threejs" height="40" alt="Design Stack"/>
-</div>
+![Design](https://skillicons.dev/icons?i=figma,threejs)
 
 ### 🧠 Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,js,c++" height="40" alt="Languages"/>
-</div>
+![Langs](https://skillicons.dev/icons?i=c,py,java,js,cpp)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay149&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujay149&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay149&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -86,13 +65,13 @@ https://crave-finder.vercel.app/
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujay149&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujay149&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujay149&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sujay149&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
 ---
