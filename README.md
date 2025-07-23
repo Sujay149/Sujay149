@@ -51,24 +51,6 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ### 🧠 Programming Languages  
 ![Langs](https://skillicons.dev/icons?i=c,py,java,js,cpp)
 
----
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujay149&theme=tokyonight&no-frame=true&margin-w=4" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujay149&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
-
----
 
 ### 💬 Feel free to reach out for collaborations or just a tech chat!
