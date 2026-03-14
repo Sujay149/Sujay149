@@ -1,64 +1,56 @@
-👋 Heyy!! I'm Sujay Thota
+# 👋 Heyy!! I'm Sujay Thota
 
-A passionate Full-Stack Web Developer & Designer, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.
+A passionate **Full-Stack Web Developer & Designer**, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.
 
-🎓 Currently pursuing B.Tech at SRKR Engineering College
-Specializing in Computer Science & Design
+🎓 Currently pursuing my **B.Tech at SRKR Engineering College**, specializing in **Computer Science & Design**.
 
-🚀 Know About Me!!
+## 🚀 Know About Me!!
 
-💻 Full-stack developer with a love for technology and creativity
+- 💻 Full-stack developer with a love for technology and creativity 💡  
+- 🌍 Passionate about real-world projects blending design, development & AI  
+- 🌱 Lifelong learner, adapting to new challenges in tech  
+- 🤝 Love collaborating and sharing knowledge to create positive impact
 
-🌍 Passionate about real-world projects blending design, development & AI
+## 🌐 Portfolio
 
-🌱 Lifelong learner adapting to new challenges in tech
+🔗 [sujaybabu.vercel.app](https://sujaybabu.vercel.app)
 
-🤝 Love collaborating and sharing knowledge to create positive impact
+## 🧩 Projects
 
-🌐 Portfolio
+- 🔬 [Medibot AI](https://www.medibot-ai.com/)
+- 🔐 [Neurohub](https://signup-1499.web.app/)
+- 🧒 [WonderKids Game](https://wonderkids.great-site.net/?i=1)
 
-🔗 Website
-https://sujaybabu.vercel.app
+## 💻 Tech Stack
 
-🧩 Projects
+### 🌐 Web & App Technologies
 
-🔬 Medibot AI
-https://www.medibot-ai.com
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind"/>
+</p>
 
-🔐 NeuroHub
-https://neurohub.vercel.app
+### 🗃️ Database Technologies
 
-🧒 WonderKids Platform
-https://wonderkids.great-site.net
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres"/>
+</p>
 
-🍟 Crave Finder
-https://crave-finder.vercel.app
+### 🛠️ Tools & Platforms
 
-💻 Tech Stack
-🌐 Web & App Technologies
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind" /> </p>
-🗃️ Database Technologies
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" /> </p>
-🛠️ Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" /> </p>
-🎨 Design & UI/UX
-<p> <img src="https://skillicons.dev/icons?i=figma,threejs" /> </p>
-🧠 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=c,python,java,js,cpp" /> </p>
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujay149&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay149&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Sujay149&theme=tokyonight&hide_border=true"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Sujay149/Sujay149/output/github-contribution-grid-snake.svg"/> </p>
-💬 Let's Connect
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode"/>
+</p>
 
-📧 sujayss149@gmail.com
+### 🎨 Design & UI/UX
 
-💼 https://linkedin.com/in/sujaybabu
+<p>
+<img src="https://skillicons.dev/icons?i=figma,threejs"/>
+</p>
 
-🌐 https://sujaybabu.vercel.app
+### 🧠 Programming Languages
 
-💻 https://github.com/Sujay149
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,cpp"/>
+</p>
 
-⭐ Feel free to reach out for collaborations or just a tech chat!
+💬 Feel free to reach out for collaborations or just a tech chat!
