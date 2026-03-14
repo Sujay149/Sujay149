@@ -1,8 +1,9 @@
 # 👋 Heyy!! I'm Sujay Thota
 
-A passionate **Full-Stack Web Developer & Designer**, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.
-
+A passionate **Full-Stack Web Developer & Designer**, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.  
 🎓 Currently pursuing my **B.Tech at SRKR Engineering College**, specializing in **Computer Science & Design**.
+
+---
 
 ## 🚀 Know About Me!!
 
@@ -11,46 +12,48 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 - 🌱 Lifelong learner, adapting to new challenges in tech  
 - 🤝 Love collaborating and sharing knowledge to create positive impact
 
-## 🌐 Portfolio
+---
 
+## 🌐 Portfolio  
 🔗 [sujaybabu.vercel.app](https://sujaybabu.vercel.app)
+
+---
 
 ## 🧩 Projects
 
-- 🔬 [Medibot AI](https://www.medibot-ai.com/)
-- 🔐 [Neurohub](https://signup-1499.web.app/)
-- 🧒 [WonderKids Game](https://wonderkids.great-site.net/?i=1)
+- ⚡ [Prompt2Code – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=SujayBabuThota.prompt2code)
+- - 🤖 [MediBot AI – Healthcare AI Assistant](https://www.medibot-ai.com/)   
+- 🌐 [CodeDale – Developer Platform](https://code-dale.vercel.app)  
+- 🔐 [NeuroHub – Neurodiversity Support Platform](https://neurohub.vercel.app)  
+- 🧒 [WonderKids – School Management Platform](https://wonderkids.great-site.net/?i=1)  
+- 🍟 [Crave Finder – Food Discovery App](https://crave-finder.vercel.app/)
+
+---
+
+## 🎯 Currently Focused On:
+- 👨‍💻 Web & App Development  
+- 🔥 Exploring the latest tech trends  
+
+---
 
 ## 💻 Tech Stack
 
-### 🌐 Web & App Technologies
+### 🌐 Web & App Technologies  
+![Web](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind"/>
-</p>
+### 🗃️ Database Technologies  
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres)
 
-### 🗃️ Database Technologies
+### 🛠️ Tools & Platforms  
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres"/>
-</p>
+### 🎨 Design & UI/UX  
+![Design](https://skillicons.dev/icons?i=figma,threejs)
 
-### 🛠️ Tools & Platforms
+### 🧠 Programming Languages  
+![Langs](https://skillicons.dev/icons?i=c,py,java,js,cpp)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode"/>
-</p>
 
-### 🎨 Design & UI/UX
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,threejs"/>
-</p>
+### 💬 Feel free to reach out for collaborations or just a tech chat!
 
-### 🧠 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,cpp"/>
-</p>
-
-💬 Feel free to reach out for collaborations or just a tech chat!
