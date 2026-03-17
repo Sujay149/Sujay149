@@ -23,7 +23,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 - ⚡ [Prompt2Code – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=SujayBabuThota.prompt2code)
 - 🤖 [MediBot AI – Healthcare AI Assistant](https://www.medibot-ai.com/)
--  🌐 [AkepatiMart – An Ecommercea Platform](https://akepatimart.com/) 
+-  🌐 [AkepatiMart – An Ecommerce Platform](https://akepatimart.com/) 
 - 🌐 [CodeDale – Developer Platform](https://code-dale.vercel.app)  
 - 🔐 [NeuroHub – Neurodiversity Support Platform](https://neurohub.vercel.app)  
 - 🧒 [WonderKids – School Management Platform](https://wonderkids.great-site.net/?i=1)  
